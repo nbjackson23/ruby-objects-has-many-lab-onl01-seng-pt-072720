@@ -9,7 +9,7 @@ class Post
     @@all << self
   end
   
-  def self.
+  def self.all
 
   def author_name
     if @author == nil
