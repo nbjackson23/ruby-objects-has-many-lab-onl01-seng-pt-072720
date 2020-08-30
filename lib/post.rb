@@ -6,7 +6,7 @@ class Post
   
   def initialize(title)
     @title = title
-    @@self =
+    @@all 
   end
 
   def author_name
